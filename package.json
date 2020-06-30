@@ -1,6 +1,6 @@
 {
-  "name": "texttemplateelement",
-  "widgetName": "TextTemplateElement",
+  "name": "textTest",
+  "widgetName": "textTest",
   "version": "1.2.2",
   "description": "My widget description",
   "copyright": "2020 Mendix Technology BV",
